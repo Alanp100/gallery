@@ -1,0 +1,15 @@
+.gallery{
+    grid: 100px;
+
+}
+.see-more{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -24px;
+
+}
+.button-image-container{
+    position: relative;
+    
+}
